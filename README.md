@@ -1,9 +1,9 @@
-## Apenas um indivíduo qualquer..
+## Apenas um indivíduo qualquer  :sleeping:..
 
 ## Esse repositório contém:
 
 - [ ] códigos belícimos
-- [x] códigos feinhos, mas feitos de coração..
+- [x] códigos feinhos, mas feitos de coração..   :stuck_out_tongue_winking_eye:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Marcos1701&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
