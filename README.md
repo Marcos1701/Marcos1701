@@ -1,4 +1,4 @@
-![alt text](URL_da_imagem)
+![alt text](https://imgur.com/a/6mEvgXO)
 
 
 # :dizzy: Sobre Mim:
