@@ -15,6 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos1701&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Marcos1701&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-
-<iframe src="https://www.google.com/logos/2010/snake.html" width="600" height="450" frameborder="0" scrolling="no"></iframe>
