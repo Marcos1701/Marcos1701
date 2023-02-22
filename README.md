@@ -1,3 +1,6 @@
+![alt text](URL_da_imagem)
+
+
 # :dizzy: Sobre Mim:
   - *Estou constantemente em busca de novos desafios e aprendizados. :star2::star2:*
   - :sleeping::sleeping:...
