@@ -1,4 +1,5 @@
-![alt text](https://imgur.com/gallery/kUVigqo)
+<img src="https://i.imgur.com/kUVigqo.jpg" width="380px" height="210px">
+
 
 
 # :dizzy: Sobre Mim:
