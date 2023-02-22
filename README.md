@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/6mEvgXO)
+![alt text](https://imgur.com/gallery/kUVigqo)
 
 
 # :dizzy: Sobre Mim:
