@@ -5,8 +5,8 @@
   <img src="https://i.imgur.com/kUVigqo.jpg" width="420px" height="210px">
 
   # :dizzy: Sobre Mim:
-    - *Estou constantemente em busca de novos desafios e aprendizados. :star2::star2:*
-    - :sleeping::sleeping:...
+   - *Estou constantemente em busca de novos desafios e aprendizados. :star2::star2:*
+   - :sleeping::sleeping:...
 
   ## Esse repositório contém:
 
