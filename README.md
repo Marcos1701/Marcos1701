@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="./teste.css">
+</head>
 <img src="https://i.imgur.com/kUVigqo.jpg" width="420px" height="210px">
 
 # :dizzy: Sobre Mim:
