@@ -9,6 +9,14 @@ a {
     color: #000;
 }
 
+body {
+     background-image:
+        url(./fundo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 
 /* Works on Firefox */
 * {
