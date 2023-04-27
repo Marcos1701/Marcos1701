@@ -3,7 +3,10 @@
 *Se você está lendo este arquivo, é provável que esteja interessado(a) em saber um pouco mais sobre mim e sobre o que você pode encontrar neste repositório, ou simplesmente acabou caindo aqui "de paraquedas", enfim divirta-se por aqui..*
 
 ## :sparkles: Sobre Mim:
-*Eu sou um estudante de Análise e Desenvolvimento de Sistemas no IFPI, no Campus Teresina Central. Tenho experiência em diversas linguagens de programação, como Javascript, Typescript, Python, C/C++, HTML e CSS. Também possuo conhecimentos em Banco de Dados (PostgreSQL), DOM e outras tecnologias importantes para a área de desenvolvimento.*
+- *Olá! Me chamo Marcos Eduardo e atualmente sou um estudante do 3° período de Análise e Desenvolvimento de sistemas no IFPI, campus Tesesina Central em Teresina-PI.*
+- *Meu objetivo é me tornar um desenvolvedor de software completo e capaz de enfrentar qualquer desafio que venha a surgir.*
+- *Possuo conhecimentos em linguagens como Javascript, Typescript, Python, C/C++, além de ter experiência com Banco de Dados (PostgreSQL), HTML, CSS, DOM e outras tecnologias relacionadas.*
+- *Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades técnicas e profissionais.*
 
 *Atualmente, estou sempre buscando novos desafios e aprendizados para aprimorar minhas habilidades como desenvolvedor. Por isso, este repositório contém códigos variados, desde os mais simples até os mais complexos, que refletem meu processo de aprendizado e minha evolução na área.*
 
