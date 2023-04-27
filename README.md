@@ -24,7 +24,7 @@
 ## :link: Links Úteis:
 **Aqui estão alguns links úteis para que você possa conhecer um pouco mais sobre mim e meus projetos:**
 
-- [Portfólio de Projetos](https://marcos1701.github.io/Codes-Mapa-DevWeek/portfolio-teste)
+- [Portfólio](https://marcos1701.github.io/Codes-Mapa-DevWeek/portfolio-teste)
 - [Perfil do GitHub](https://github.com/Marcos1701)
 
 *Espero que você encontre algo útil neste repositório e que possa aprender e se inspirar com meus códigos. Desde já, agradeço pela visita!*
