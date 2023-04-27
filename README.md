@@ -10,8 +10,8 @@
 
 *Atualmente, estou sempre buscando novos desafios e aprendizados para aprimorar minhas habilidades como desenvolvedor. Por isso, este repositório contém códigos variados, desde os mais simples até os mais complexos, que refletem meu processo de aprendizado e minha evolução na área.*
 
-## :open_file_folder: Conteúdo do Repositório:
-*Este repositório contém diversos códigos, projetos e desafios que realizei durante meu curso e também em projetos pessoais. Aqui, você poderá encontrar desde códigos simples até projetos mais complexos, todos desenvolvidos com muito carinho e dedicação.*
+## :open_file_folder: Conteúdo dos Repositórios deste GitHub:
+*Os Repositórios contém diversos códigos, projetos e desafios que realizei e realizarei durante meu curso, além de alguns projetos pessoais. Aqui, você poderá encontrar desde códigos simples até projetos mais complexos, todos desenvolvidos com muito carinho e dedicação.*
 
 ## :chart_with_upwards_trend: Estatísticas do GitHub:
 **Se você está curioso(a) para saber mais sobre meu perfil no GitHub, confira algumas estatísticas abaixo:**
@@ -28,6 +28,5 @@
 **Aqui estão alguns links úteis para que você possa conhecer um pouco mais sobre mim e meus projetos:**
 
 - [Portfólio](https://marcos1701.github.io/Codes-Mapa-DevWeek/portfolio-teste)
-- [Perfil do GitHub](https://github.com/Marcos1701)
 
 *Espero que você encontre algo útil neste repositório e que possa aprender e se inspirar com meus códigos. Desde já, agradeço pela visita!*
