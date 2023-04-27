@@ -1,10 +1,9 @@
 
 <body>
-  <img src="https://i.imgur.com/kUVigqo.jpg" width="420px" height="210px">
 
   # :dizzy: Sobre Mim:
+   - **Atualmente, sou um estudante de Análise e Desenvolvimento de sistemas no IFPI (Campus Teresina Central).**
    - *Estou constantemente em busca de novos desafios e aprendizados. :star2::star2:*
-   - :sleeping::sleeping:...
 
   ## Esse repositório contém:
 
