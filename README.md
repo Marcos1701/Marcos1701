@@ -3,7 +3,7 @@
 *Se você está lendo este arquivo, é provável que esteja interessado(a) em saber um pouco mais sobre mim e sobre o que você pode encontrar neste repositório, ou simplesmente acabou caindo aqui "de paraquedas", enfim divirta-se por aqui..*
 
 ## :sparkles: Sobre Mim:
-- *Olá! Me chamo Marcos Eduardo e atualmente sou um estudante do 3° período de Análise e Desenvolvimento de sistemas no IFPI, campus Tesesina Central em Teresina-PI.*
+- *Olá! Me chamo Marcos Eduardo e atualmente sou um estudante do 3° período de Análise e Desenvolvimento de sistemas no IFPI, campus Teresina Central em Teresina-PI.*
 - *Meu objetivo é me tornar um desenvolvedor de software completo e capaz de enfrentar qualquer desafio que venha a surgir.*
 - *Possuo conhecimentos em linguagens como Javascript, Typescript, Python, C/C++, além de ter experiência com Banco de Dados (PostgreSQL), HTML, CSS, DOM e outras tecnologias relacionadas.*
 - *Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades técnicas e profissionais.*
