@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="250" src="https://animeclipsraw.fr/storage/2022/08/Screenshot_352.png">
+</p>
+
 # :wave: Seja Bem-vindo(a)!
 
 *Se você está lendo este arquivo, é provável que esteja interessado(a) em saber um pouco mais sobre mim e sobre o que você pode encontrar neste repositório, ou simplesmente acabou caindo aqui "de paraquedas", enfim divirta-se por aqui..*
@@ -10,7 +14,7 @@
 
 *Atualmente, estou sempre buscando novos desafios e aprendizados para aprimorar minhas habilidades como desenvolvedor. Por isso, este repositório contém códigos variados, desde os mais simples até os mais complexos, que refletem meu processo de aprendizado e minha evolução na área.*
 
-## 📂: Conteúdo dos Repositórios deste GitHub:
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Conteúdo dos Repositórios deste GitHub:
 *Os Repositórios contém diversos códigos, projetos e desafios que realizei e realizarei durante meu curso, além de alguns projetos pessoais. Aqui, você poderá encontrar desde códigos simples até projetos mais complexos, todos desenvolvidos com muito carinho e dedicação.*
 
 ## 📈: Estatísticas do GitHub:
