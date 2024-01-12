@@ -17,7 +17,7 @@
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Conteúdo dos Repositórios deste GitHub:
 *Os Repositórios contém diversos códigos, projetos e desafios que realizei e realizarei durante meu curso, além de alguns projetos pessoais. Aqui, você poderá encontrar desde códigos simples até projetos mais complexos, todos desenvolvidos com muito carinho e dedicação.*
 
-## 📈: Estatísticas do GitHub:
+## <img src = "https://media.giphy.com/media/PBo18KBOkMqbRBhOXa/giphy.gif" height ="50" width="43" style="mix-blend-mode: multiply;"/>: Estatísticas do GitHub:
 **Se você está curioso(a) para saber mais sobre meu perfil no GitHub, confira algumas estatísticas abaixo:**
 
 ![](https://github-readme-stats.vercel.app/api?username=Marcos1701&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
