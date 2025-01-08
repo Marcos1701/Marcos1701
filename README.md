@@ -34,3 +34,9 @@
 - [Portfólio](https://marcos1701.github.io/Portfolio/index)
 
 *Espero que você encontre algo útil neste repositório e que possa aprender e se inspirar com meus códigos. Desde já, agradeço pela visita!*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
