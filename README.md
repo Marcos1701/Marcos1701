@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="250" src="https://animeclipsraw.fr/storage/2022/08/Screenshot_352.png">
+    <img width="250" src="./img.png">
 </p>
 
 # :wave: Seja Bem-vindo(a)!
