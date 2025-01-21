@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="250" src="./img.png">
+    <img width="350" src="./img.png">
 </p>
 
 # :wave: Seja Bem-vindo(a)!
