@@ -92,10 +92,4 @@ Boa parte da minha atuação na **SEPLAN-PI** envolve sistemas internos, por iss
 
 ---
 
-<div align="center">
 
-### Vamos nos conectar?
-
-Se quiser conversar sobre desenvolvimento web, compartilhar experiências ou trocar ideias sobre projetos, me encontre no [LinkedIn](https://www.linkedin.com/in/marcosneiva/).
-
-</div>
