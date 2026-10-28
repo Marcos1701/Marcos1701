@@ -61,8 +61,3 @@ Contribuições
   </p>
   <p align="center"><sub>As estatísticas refletem a atividade visível no GitHub, não toda a experiência profissional.</sub></p>
 </details>
-
-Contato
-Gosto de conversar sobre desenvolvimento web, compartilhar experiências e conhecer diferentes formas de resolver problemas com software.
-
-Vamos conversar no LinkedIn?
